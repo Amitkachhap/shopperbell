@@ -1,0 +1,40 @@
+/* global.css */
+
+/* Reset styles to ensure consistency across browsers */
+/* Add your CSS reset or normalization code here if necessary */
+
+/* Set a base font size and line height for the entire application */
+body {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: 'Arial', sans-serif;
+  /* Other global styles for the body element */
+}
+
+/* Set a custom background color or other global styles */
+/* For example, setting a background color for the entire app */
+/* You can use Tailwind CSS classes for common styles as well */
+body {
+  background-color: #f4f4f4;
+}
+
+/* Define custom global styles */
+/* For example, setting a custom link style for all anchor tags */
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+/* Define styles for specific elements if needed */
+/* For example, a custom button style */
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #0070f3;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Additional custom styles can be added as needed */
